@@ -19,6 +19,11 @@ Speed & direction should change somewhat randomly over time
 
 Player gets a wind gague, that points in the direction & somehow indicates speed
 
+## Birds!
+
+Sea birds, white & grey over the blues of the ocean, soft noises
+Maybe simple boid? Coding?
+
 ## Questions
 
 How to make even circles propagate, instead of just the shape of the grid?
